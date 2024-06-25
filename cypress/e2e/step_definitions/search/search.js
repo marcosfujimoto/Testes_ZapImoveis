@@ -36,6 +36,6 @@ And ('Selecionar o botão Aceita Pets ', ()=> {
 
 })
 
-Then ('O sitema deve retornar a pesquisa solicitada',()=>{
+Then ('O sistema deve retornar a pesquisa solicitada',()=>{
 
 })

@@ -9,4 +9,4 @@ And Selecionar o campo de preenchimento pesquisar e preencher as informações
 And Selecionar o botão todos os imóveis e selecionar a opção apartamento
 And Selecionar o botão Buscar 
 And Selecionar o botão Aceita Pets
-Then O sitema deve retornar a pesquisa solicitada
+Then O sistema deve retornar a pesquisa solicitada
